@@ -1,5 +1,5 @@
 # EX 5A Minimum Cost Path
-## DATE:
+
 ## AIM:
 To write a Python program that finds the minimum cost path in a cost matrix from the top-left corner (0,0) to a target cell (m,n) using dynamic programming.
 
